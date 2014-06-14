@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+	<!-- Modules -->
+	<modules>
+		<Admin>
+			<control>Info</control>
+		</Admin>
+	</modules>
+	
+	<!-- Plugins -->
+	<plugins>
+		<!-- <plugin></plugin> -->
+	</plugins>
+</config>

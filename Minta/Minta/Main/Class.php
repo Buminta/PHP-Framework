@@ -1,0 +1,1 @@
+<?php	class Minta_Main_Class{		protected $text = "";		public function __construct(){					}		public function toString(){			$this->text = "Minta Class";			return $this->text;		}	}?>
